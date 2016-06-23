@@ -1,5 +1,5 @@
 ![python](https://img.shields.io/badge/language-python-blue.svg)
-[![Platform (Linux, OS X)](https://img.shields.io/badge/platform-Linux,%20OS%20X-green.svg?style=flat-square)]()
+
 [![PyPI](https://img.shields.io/pypi/pyversions/packagejson.svg)](https://pypi.python.org/pypi/packagejson)[![PyPI](https://img.shields.io/pypi/v/packagejson.svg)](https://pypi.python.org/pypi/packagejson)
 [![npm](https://img.shields.io/npm/v/packagejson.svg)](https://www.npmjs.com/package/packagejson)
 
@@ -88,7 +88,7 @@ $ python -m packagejson.py | grep "$URL"
 [Examples/](https://github.com/russianidiot/packagejson.py.cli/tree/master/Examples)
 
 Sources:
-*	[bin/packagejson.py](https://github.com/russianidiot/packagejson.py.cli/blob/master/bin/packagejson.py)
+*	[py_modules/packagejson.py](https://github.com/russianidiot/packagejson.py.cli/blob/master/py_modules/packagejson.py)
 
 Feedback
 [![GitHub issues](https://img.shields.io/github/issues/russianidiot/packagejson.py.cli.svg)](https://github.com/russianidiot/packagejson.py.cli/issues)
