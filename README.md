@@ -3,7 +3,7 @@
 [![PyPI](https://img.shields.io/pypi/pyversions/packagejson.svg)](https://pypi.python.org/pypi/packagejson)[![PyPI](https://img.shields.io/pypi/v/packagejson.svg)](https://pypi.python.org/pypi/packagejson)
 [![npm](https://img.shields.io/npm/v/packagejson.svg)](https://www.npmjs.com/package/packagejson)
 
-[![codacy.com](None)](https://www.codacy.com/app/russianidiot-github/packagejson-py-cli/dashboard)
+[![codacy.com](https://api.codacy.com/project/badge/Grade/a1f724468e3e425092e648c787d2855b)](https://www.codacy.com/app/russianidiot-github/packagejson-py-cli/dashboard)
 [![landscape.io](https://landscape.io/github/russianidiot/packagejson.py.cli/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/packagejson.py.cli)
 [![codeclimate.com](https://codeclimate.com/github/russianidiot/packagejson.py.cli/badges/gpa.svg)](https://codeclimate.com/github/russianidiot/packagejson.py.cli)
 [![scrutinizer-ci.com](https://scrutinizer-ci.com/g/russianidiot/packagejson.py.cli/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/packagejson.py.cli/)
@@ -12,7 +12,7 @@
 [![drone.io](https://drone.io/github.com/russianidiot/packagejson.py.cli/status.png)](https://drone.io/github.com/russianidiot/packagejson.py.cli)
 [![scrutinizer-ci.com](https://scrutinizer-ci.com/g/russianidiot/packagejson.py.cli/badges/build.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/packagejson.py.cli/)
 [![semaphoreci.com](https://semaphoreci.com/api/v1/russianidiot/packagejson-py-cli/branches/master/shields_badge.svg)](https://semaphoreci.com/russianidiot/packagejson-py-cli)
-[![shippable.com](None)](None)
+[![shippable.com](https://api.shippable.com/projects/576b4fc2b548c8557e5816ca/badge?branch=master)](https://app.shippable.com/projects/576b4fc2b548c8557e5816ca)
 [![travis-ci.org](https://travis-ci.org/russianidiot/packagejson.py.cli.svg)](https://travis-ci.org/russianidiot/packagejson.py.cli)
 [![wercker.com](None)](None)
 
@@ -27,17 +27,15 @@
 [config](https://scrutinizer-ci.com/g/russianidiot/packagejson.py.cli/settings/build-config)
 [open](https://scrutinizer-ci.com/g/russianidiot/packagejson.py.cli/)
 [badge_build](https://scrutinizer-ci.com/g/russianidiot/packagejson.py.cli/badges/build.png?b=master)
-*	travis-ci.org:
-[open](https://travis-ci.org/russianidiot/packagejson.py.cli)
-[badge](https://travis-ci.org/russianidiot/packagejson.py.cli.svg)
-*	wercker.com:
-[add](https://app.wercker.com/#applications/create)
 *	codacy.com:
 [new](https://www.codacy.com/project/new/github?add=packagejson.py.cli)
-[open](https://www.codacy.com/app/russianidiot-github/packagejson-py-cli/dashboard)
+[badge](https://api.codacy.com/project/badge/Grade/a1f724468e3e425092e648c787d2855b)
 [integrations](https://www.codacy.com/app/russianidiot-github/packagejson-py-cli/settings/integrations)
+[open](https://www.codacy.com/app/russianidiot-github/packagejson-py-cli/dashboard)
 *	shippable.com:
+[open](https://app.shippable.com/projects/576b4fc2b548c8557e5816ca)
 [add](https://app.shippable.com/subscriptions/57068cba2a8192902e1bbb7e?add=russianidiot/packagejson.py.cli)
+[badge](https://api.shippable.com/projects/576b4fc2b548c8557e5816ca/badge?branch=master)
 *	semaphoreci.com:
 [open](https://semaphoreci.com/russianidiot/packagejson-py-cli)
 [add](https://semaphoreci.com/projects/new?repo_host=github&add=russianidiot/packagejson.py.cli)
