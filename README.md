@@ -69,18 +69,18 @@ npm:
 #### Usage
 
 ```shell
-usage: python -m packagejson.py
+usage: python -m packagejson
 ```
 
 #### Example
 
 ```shell
-$ python -m packagejson.py # stdout
-$ python -m packagejson.py > package.json # write to file
+$ python -m packagejson # stdout
+$ python -m packagejson > package.json # write to file
 
 # export variables
 $ export URL="https://github.com/owner/repo/issues"
-$ python -m packagejson.py | grep "$URL"
+$ python -m packagejson | grep "$URL"
 ```
 
 [Examples/](https://github.com/russianidiot/packagejson.py.cli/tree/master/Examples)
