@@ -3,4 +3,4 @@
 
 bugs="https://github.com/owner/repo/issues"
 export BUGS="$BUGS"
-( set -x; packagejson-generator.py )
+( set -x; python -m packagejson )
