@@ -1,0 +1,6 @@
+$ python -m packagejson.py # stdout
+$ python -m packagejson.py > package.json # write to file
+
+# export variables
+$ export URL="https://github.com/owner/repo/issues"
+$ python -m packagejson.py | grep "$URL"
