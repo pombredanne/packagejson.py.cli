@@ -16,7 +16,7 @@ README generated with readmemako.py (github.com/russianidiot/readme-mako.py) and
 [![semaphoreci.com](https://semaphoreci.com/api/v1/russianidiot/packagejson-py-cli/branches/master/shields_badge.svg)](https://semaphoreci.com/russianidiot/packagejson-py-cli)
 [![shippable.com](https://api.shippable.com/projects/576b4fc2b548c8557e5816ca/badge?branch=master)](https://app.shippable.com/projects/576b4fc2b548c8557e5816ca/status/)
 [![travis-ci.org](https://api.travis-ci.org/russianidiot/packagejson.py.cli.svg)](https://travis-ci.org/russianidiot/packagejson.py.cli)
-[![wercker.com](None)](https://app.wercker.com/#applications/576b4fb419a594010009a6d8)
+[![wercker.com](None)](https://app.wercker.com/russianidiot/packagejson.py.cli/)
 
 <p align="center">
     <b>generate package.json</b>
